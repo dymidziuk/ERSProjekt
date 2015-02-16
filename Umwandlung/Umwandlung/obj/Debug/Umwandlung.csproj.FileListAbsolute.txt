@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\bin\Debug\Umwandlung.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\bin\Debug\Umwandlung.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\bin\Debug\Umwandlung.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\obj\Debug\Umwandlung.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\obj\Debug\Umwandlung.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ERSProjekt\Umwandlung\Umwandlung\obj\Debug\Umwandlung.pdb
